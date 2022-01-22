@@ -1,0 +1,14 @@
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\bin\Debug\netcoreapp3.1\ArabaSon.exe
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\bin\Debug\netcoreapp3.1\ArabaSon.deps.json
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\bin\Debug\netcoreapp3.1\ArabaSon.runtimeconfig.json
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\bin\Debug\netcoreapp3.1\ArabaSon.runtimeconfig.dev.json
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\bin\Debug\netcoreapp3.1\ArabaSon.dll
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\bin\Debug\netcoreapp3.1\ArabaSon.pdb
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\obj\Debug\netcoreapp3.1\ArabaSon.csproj.AssemblyReference.cache
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\obj\Debug\netcoreapp3.1\ArabaSon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\obj\Debug\netcoreapp3.1\ArabaSon.AssemblyInfoInputs.cache
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\obj\Debug\netcoreapp3.1\ArabaSon.AssemblyInfo.cs
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\obj\Debug\netcoreapp3.1\ArabaSon.csproj.CoreCompileInputs.cache
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\obj\Debug\netcoreapp3.1\ArabaSon.dll
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\obj\Debug\netcoreapp3.1\ArabaSon.pdb
+C:\Users\alicanmadan\source\repos\ArabaSon\ArabaSon\obj\Debug\netcoreapp3.1\ArabaSon.genruntimeconfig.cache
